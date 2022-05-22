@@ -1,0 +1,21 @@
+{
+  "id": 8027934,
+  "name": "Plac, the Dark Void Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 Rank 8 Monsters Once per turn: by detaching 1 material you can special summon 1 rank 8 or lower xyz monster with less ATK than this card to the field.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3500,
+  "species": "Dragon",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": ,
+  "def": 3000,
+  "rank": 8,
+  "is_tuner": 
+}

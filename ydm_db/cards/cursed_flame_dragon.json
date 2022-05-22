@@ -1,0 +1,26 @@
+{
+  "id": 13,
+  "name": "Cursed Flame Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 Xyz Monsters This card in a extra monster zone cannot be targeted or destroyed by card effect. Once per turn: Durning the main phase tribute a monster that this card points to, destroy all cards with the same attribute as that card.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 3000,
+  "species": "Dragon",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": ,
+  "link_rating": 4,
+  "link_arrows": [
+  "Top",
+  "Bottom-Left",
+  "Bottom-Right",
+  "Bottem"
+  
+}

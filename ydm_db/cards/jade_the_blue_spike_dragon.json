@@ -1,0 +1,21 @@
+{
+  "id": 3439935,
+  "name": "Jade, The Blue Spike Dragon",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2 tuners + 1+ non-Tuners Once per turn: target the same number of cards used to Syncro summon this card on either field then destroy the targeted card. This card cannot attack the turn this effect is activated. 
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 3500,
+  "species": "Dragon",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3500,
+  "level": 11,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 14,
+  "name": "Chaos God Killer",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "4 level 10 Monsters If this card battles a Divine-Beast monster destroy that card. Once per turn: If there is a Divine-Beast monster in either GY detatch 3 materials then specials summon that card (This is treated as a normal summon)",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DRAK",
+  "atk": 4500,
+  "species": "Machine",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 4000,
+  "rank": 10,
+  "is_tuner": 
+}
