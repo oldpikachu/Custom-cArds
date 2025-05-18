@@ -1,0 +1,21 @@
+{
+  "id": ,
+  "name": "",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "",
+  "atk": ,
+  "species": "",
+  "monster_type": "",
+  "is_pendulum": ,
+  "ability": "",
+  "has_effect": ,
+  "def": ,
+  "level": ,
+  "is_tuner": 
+}
