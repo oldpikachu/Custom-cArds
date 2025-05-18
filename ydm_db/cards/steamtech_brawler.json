@@ -1,0 +1,21 @@
+{
+  "id": 01466768,
+  "name": "Steamtech Brawler",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This Card can attack twice during the turn this card was normal summoned",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2000,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}
