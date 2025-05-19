@@ -1,0 +1,12 @@
+{
+  "id": 64786303,
+  "name": "Steamtech Fortress",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Each time a 'Steamtech' monster would be destroyed by battle or by card effect you can send 1 card from your deck to the GY and if you do that mosnter would not be destroyed",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

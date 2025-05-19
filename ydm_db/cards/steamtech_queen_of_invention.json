@@ -1,0 +1,21 @@
+{
+  "id": 8197235,
+  "name": "Steamtech Queen of Invention",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "3 'Steamtech' Fusion monsters with different names\nOnce per turn: you can target 1 'Steamtech' monster in your GY equip it to this card, this card gains ATK equil to the equip monster(s), if this card would be destroyed you can destroy a card equipped to this card instead.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 3500,
+  "species": "Machine",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3400,
+  "level": 11,
+  "is_tuner": false
+}

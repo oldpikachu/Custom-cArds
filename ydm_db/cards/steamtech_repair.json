@@ -1,0 +1,12 @@
+{
+  "id": 70281124,
+  "name": "Steamtech Repair",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 level 4 'Steamtech' Monster in your GY special summon it. when this card leaves the feild send the special summoned monster to the GY",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

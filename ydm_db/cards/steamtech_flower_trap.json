@@ -1,0 +1,12 @@
+{
+  "id": 22401295,
+  "name": "Steamtech Flower Trap",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 monster zone, when a monster is summoned to that zone, destroy that monster",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

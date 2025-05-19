@@ -1,0 +1,21 @@
+{
+  "id": 38404161,
+  "name": "Steamtech Messages",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 'Steamtech' monsters\nOnce per turn (Quick Effect): you can target 1 monster zone with a monster card in it, swap this card with the targeted monster",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2000,
+  "species": "Machine",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 6,
+  "level": 3000,
+  "is_tuner": false
+}

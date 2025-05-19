@@ -1,0 +1,21 @@
+{
+  "id": 54745562,
+  "name": "Steamtech Prototype Weapon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "3 'Steamtech' monsters\nOnce per turn (Quick Effect): while this card is in the GY you can target 1 'Steamtech' fusion monster on your feild with a lower level then this card equip this card to the targeted monster, that monster gains half this cards ATK",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 3300,
+  "species": "Machine",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3300,
+  "level": 9,
+  "is_tuner": false
+}

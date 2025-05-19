@@ -1,0 +1,12 @@
+{
+  "id": 88491854,
+  "name": "Steamtech Dragon Cannon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "At the end of your opponents turn for each 'Steamtech' monster that was destroyed by battle draw 1 card",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

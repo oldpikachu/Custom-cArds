@@ -1,0 +1,21 @@
+{
+  "id": 23302777,
+  "name": "Steamtech Flight Warrior",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 EARTH monsters\nWhen this card is fusion summoned, special summon tokens equil to the number of spell cards you control",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2300,
+  "species": "Machine",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

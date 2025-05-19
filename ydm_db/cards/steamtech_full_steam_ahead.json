@@ -1,0 +1,12 @@
+{
+  "id": 55979598,
+  "name": "Steamtech Full Steam Ahead",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "During the turn this card was activated all level 10 or lower 'Steamtech' monsters you control have their ATK and DEF doubled, during your end phase desttroy all 'steamtech' monsters you control that are level 10 or lower",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

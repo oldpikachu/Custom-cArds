@@ -1,0 +1,21 @@
+{
+  "id": 8556471,
+  "name": "Steamtech Titanic Golem",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "3 'Steamtech' monsters with different names\nOnce per turn: you can tribute 2 level 8 monsters next to this card then destory all monsters your opponent controls, if this card uses its effect change card to face-up defence position, this card cannot change its positon until 2 end phases pass",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 3500,
+  "species": "Machine",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "level": 10,
+  "is_tuner": false
+}
