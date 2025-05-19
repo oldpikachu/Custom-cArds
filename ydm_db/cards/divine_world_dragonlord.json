@@ -1,0 +1,21 @@
+{
+  "id": 54964536,
+  "name": "Divine World Dragonlord",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": ""Brilliance the Dragonlord\" + "Salvation the Dragonlord\" + "Despair the Dragonlord\"\nMust be fusion summoned by using monster with above original names. Cannot be summoned by any other ways. While this card is on the feild this cards ATK and DEF become 20000. This card cannot be targeted by card effect. Monsters your opponent control must attack this card if able. If this card is deatroyed by battle special summon the cards used to summon this card",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DIVINE",
+  "atk": 0,
+  "species": "Dragon",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 12,
+  "is_tuner": false
+}

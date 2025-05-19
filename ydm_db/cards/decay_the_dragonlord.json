@@ -1,0 +1,20 @@
+{
+  "id": 64427062,
+  "name": "Decay the Dragonlord",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "3 level 12 Dragon Monsters\nMust first be special summoned from the extra deck. During the turn this card was Summoned change the ATK of all monsters on the field to o, except Dragon monsters. Once per turn you can detatch 1 material: all monsters on the feild lose 500 ATK for each Xyz monster in your GY. This card cannot be targated by card effects",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 5000,
+  "species": "Dragon",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 5000,
+  "rank": 12
+}
