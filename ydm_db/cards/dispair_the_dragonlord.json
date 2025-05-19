@@ -10,7 +10,7 @@
   "type": "Monster",
   "attribute": "DARK",
   "atk": 5000,
-  "species": Dragon"",
+  "species": "Dragon",
   "monster_type": "Synchro",
   "is_pendulum": false,
   "ability": "",
