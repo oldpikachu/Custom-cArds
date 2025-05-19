@@ -9,13 +9,13 @@
   ],
   "type": "Monster",
   "attribute": "EARTH",
-  "atk": 800
+  "atk": 800,
   "species": "Machine",
   "monster_type": "",
   "is_pendulum": false,
   "ability": "",
   "has_effect": true,
-  "def": 300
+  "def": 300,
   "level": 3,
   "is_tuner": true
 }
