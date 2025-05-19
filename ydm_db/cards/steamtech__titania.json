@@ -1,0 +1,21 @@
+{
+  "id": 88341685,
+  "name": "Steamtech Titania",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 Tuner + 1+ non-Tuner 'Steamtech" Monsters\nDuring either players battke phase you can target 1 'steamtech' mosnter in your GY equip it to this card. This cards ATK become equil to the equiped mosnters. (Max 1)",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Machine",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2800,
+  "level": 8,
+  "is_tuner": false
+}

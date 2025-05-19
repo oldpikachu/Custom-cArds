@@ -1,0 +1,21 @@
+{
+  "id": 59370187,
+  "name": "Steamtech Iron Salamander",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 Tuner + 1 non-Tuner\nWhile this monster is on the feild your opponent cannot target 'Steamtech' monsters you control with card effects",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1000,
+  "species": "Machine",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": true
+}

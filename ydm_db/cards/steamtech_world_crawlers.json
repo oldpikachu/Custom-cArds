@@ -1,0 +1,21 @@
+{
+  "id": 18918853,
+  "name": "Steamtech World Crawlers",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 Tuner + 1+ non-Tuner Synchro monsters\nWhen this card is sent from your feild to the GY by opponent card effect, all face-up 'Steamtech' Monsters you control gail 3000 ATK until the end of your turn",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 3000,
+  "species": "Machine",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "level": 10,
+  "is_tuner": false
+}
