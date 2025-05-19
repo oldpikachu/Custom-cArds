@@ -1,0 +1,21 @@
+{
+  "id": 52793992
+  "name": "Steamtech Battle Rat,
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is sent to the GY as Synchro Material for an earth Synchri monster special summon a 'Steamtech Battle Rat' from your deck",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 800
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 300
+  "level": ,
+  "is_tuner": true
+}

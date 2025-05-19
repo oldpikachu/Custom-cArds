@@ -1,0 +1,12 @@
+{
+  "id": 78867390,
+  "name": "Steamtech Forge",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Once per turn you can add either 1 'Steamtech' Monster, 1 'Steamtech' Trap, or 1 'Steamtech' spell card from your GT to your hand",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

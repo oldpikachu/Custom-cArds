@@ -1,0 +1,21 @@
+{
+  "id": 66949591,
+  "name": "Steamtech Ocean Mecha",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can discard this card then special summon 1 level 4 or lower 'Steamtech' monster from your deck",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2000,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2800,
+  "level": 8,
+  "is_tuner": false
+}

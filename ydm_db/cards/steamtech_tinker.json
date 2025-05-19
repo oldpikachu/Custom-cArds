@@ -1,0 +1,21 @@
+{
+  "id": 86813164,
+  "name": "Steamtech Tinker",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is normal summoned you can target 1 'Steamtech' monster you control, it gains 500 ATK until this card leaves the feild",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": EARTH"",
+  "atk": 2000,
+  "species": "",
+  "monster_type": "Machine",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 6,
+  "is_tuner": false
+}

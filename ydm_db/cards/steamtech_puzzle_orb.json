@@ -1,0 +1,12 @@
+{
+  "id": 93431037,
+  "name": "Steamtech Puzzle Orb",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "if this card is equipped to a 'Steamtech' mosnter that monster cannot be targeted by card effect and cannot be destroyed by battle.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Equip"
+}

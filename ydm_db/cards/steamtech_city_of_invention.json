@@ -1,0 +1,12 @@
+{
+  "id": 60422047,
+  "name": "Steamtech City of Invention",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Each time your opponent special summons a monster place 1 steam counter on this card. Once per turn during your main phase you can use up to 2 steam counters as tribute material, or you can remove all steam counters (min 2.) from this card then special summon 1 'Steamtech' monster from your deck or GY",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

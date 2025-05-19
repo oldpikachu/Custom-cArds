@@ -1,0 +1,12 @@
+{
+  "id": 54357760,
+  "name": "Steamtech Fusion",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can fusion summon a 'Steamtech' fusion monster using monsters hand or Feild as material. if you control a 'steamtech' fusion monster you can use monsters from your deck",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

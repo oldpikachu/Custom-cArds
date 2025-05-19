@@ -1,0 +1,12 @@
+{
+  "id": 83135359,
+  "name": "Steamtech Rifle",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "The Equipped mosnter gains 1000 ATK",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Equip"
+}

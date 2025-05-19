@@ -1,0 +1,21 @@
+{
+  "id": 98446443,
+  "name": "Steamtech Blacksmith",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is sent to the GY add 1 'Steamtech' equip spell from your deck to your hand. You can tribute this card then fusion summon 1 'steamtech' fusion monster using cards you control as material",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1200,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}

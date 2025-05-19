@@ -1,0 +1,21 @@
+{
+  "id": 43039362,
+  "name": "Steamtech Grim Claw",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Once per turn: you can target 1 level 4 or lower 'Steamtech' monster in your GY this card gains its ATK until the end of the turn",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 3000,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2900,
+  "level": 8,
+  "is_tuner": false
+}
