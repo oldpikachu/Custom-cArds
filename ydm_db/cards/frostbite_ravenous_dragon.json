@@ -3,11 +3,7 @@
   "name": "Frostbite Ravenous Dragon",
   "is_illegal": false,
   "is_custom": true,
-  "text": "You can Ritual Summon this card with any \"Frozen\" card. When this card is Ritual Summoned, if the Level of the monster(s) tributed was higher than this card's Level, destroy all the cards in your Spell/Trap Zones, then target monsters your opponent controls to this card up to the difference, equip them to this card. While there is a card equipped to this monster, it can attack once for each card equipped to it. Your opponent takes half battle damage from battles involving this card.
-
-
-Message #general
-",
+  "text": "You can Ritual Summon this card with any \"Frozen\" card. When this card is Ritual Summoned, if the Level of the monster(s) tributed was higher than this card's Level, destroy all the cards in your Spell/Trap Zones, then target monsters your opponent controls to this card up to the difference, equip them to this card. While there is a card equipped to this monster, it can attack once for each card equipped to it. Your opponent takes half battle damage from battles involving this card.",
   "images": [
     ""
   ],
