@@ -1,0 +1,12 @@
+{
+  "id": 98506485,
+  "name": "Frozen Malice Released",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card can be used to Ritual Summon any \"Frostbite\" Ritual Monster. You must also Tribute monsters from your field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. If this card is in your Graveyard when the Level of a monster you control changes, you can add this card to your hand You can only activate this effect of \"Frozen Malice Released\" once per turn.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Ritual"
+}

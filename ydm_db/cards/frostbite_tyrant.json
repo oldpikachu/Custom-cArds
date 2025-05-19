@@ -1,0 +1,21 @@
+{
+  "id": 48241945,
+  "name": "Frostbite Tyrant",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can Normal Summon this card without tributing, but if you do it's Level becomes 5. Once per turn, if you control this Normal Summoned monster, you can increase the Level of this card by 1 for each \"Frostbite\" monster you control.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Dinosaur",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 10,
+  "is_tuner": false
+}

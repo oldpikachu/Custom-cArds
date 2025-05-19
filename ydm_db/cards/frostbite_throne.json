@@ -1,0 +1,21 @@
+{
+  "id": 75796403,
+  "name": "Frostbite Throne",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Once per turn, you can target i \"Frostbite\" monster you control, equip this card to that monster as an Equip Spell that increases the equipped monster's Level by 4. If this card is sent from the Spell/ Trap Zone to the Graveyard, you can add this card to your hand.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Rock",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2400,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 15524198,
+  "name": "Frostbite Demolisher",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can Ritual Summon this card with any \"Frozen\" card. When this card is Ritual Summoned, if the Level of the monster(s) tributed was higher than this card's Level, destroy cards on your opponent's field up to the difference. While you control this Ritual Summoned card, your opponent cannot target other monsters you control for card effects or battle.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2900,
+  "species": "Dinosaur",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3200,
+  "level": 9,
+  "is_tuner": false
+}

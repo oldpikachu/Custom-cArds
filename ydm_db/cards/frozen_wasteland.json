@@ -1,0 +1,12 @@
+{
+  "id": 45974664,
+  "name": "Frozen Wasteland",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is activated you can add i \"Frostbite\" monster from your Deck to your hand. You can Normal Summon/Set 1 \"Frostbite\" monster in additon to your Normal Summon/Set each turn. When a \"Frostbite\" monster is Normal Summoned, you can place 1 Malice Counter on this card (Max 12). If this card leaves the field, you can Special Summon 1 \"Dormant Malice Token\" (Fiend/DARK/ATK o/DEF/ o), with a Level equal to the amount of Malice counters on this card",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

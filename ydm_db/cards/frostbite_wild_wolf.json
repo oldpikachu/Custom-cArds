@@ -1,0 +1,21 @@
+{
+  "id": 9423215,
+  "name": "Frostbite Wild Wolf",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you control a \"Frostbite\" monster, you can discard this card, then target 1 \"Frostbite\" monster you control, increase the Level of the targeted monster by 3. If you Ritual Summon a \"Frostbite\" monster while this card is in your Graveyard, you can return it to your hand.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1200,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1300,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 64934493,
+  "name": "Frostbite Mammoth",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is Normal or Special Summoned, you can discard any number of non-Ritual \"Frostbite\" monsters, increase this card's Level by 1 for each card discarded. If this card is in your Graveyard while you control a \"Frostbite\" Ritual Monster, you can banish 2 \"Frostbite\" monsters from your Graveyard, Special Summon this card in Defense Positon. You can only activate each effect of \"Frostbite Mammoth\" once per turn.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2800,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2400,
+  "level": 8,
+  "is_tuner": false
+}

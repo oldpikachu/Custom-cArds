@@ -1,0 +1,12 @@
+{
+  "id": 89575482,
+  "name": "Malicious Avalanche",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When your opponent activates a Spell/Trap card or effect, you can negate that effect, and if you do destroy that card. If this card is activated while you control a \"Frostbite\" monster, your opponent cannot activate Spell/Trap cards with the same name as the destroyed card until your next End Phase.",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": "Counter"
+}

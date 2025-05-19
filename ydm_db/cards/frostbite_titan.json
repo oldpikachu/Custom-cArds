@@ -1,0 +1,21 @@
+{
+  "id": 68985830,
+  "name": "Frostbite Titan",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can Ritual Summon this card with any \"Frozen\" card. When this card is Ritual Summoned, if the Level of the monster(s) tributed was higher than this card's Level, all \"Frostbite\" monsters you control gain ATK equal to the difference x300. This card cannot be destroyed by battle or card effect while it has the highest Level on the field",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2700,
+  "species": "Rock",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "level": 9,
+  "is_tuner": false
+}

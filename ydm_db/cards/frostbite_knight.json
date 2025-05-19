@@ -1,0 +1,21 @@
+{
+  "id": 73119650,
+  "name": "Frostbite Knight",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is Normal Summoned, you can send up to 8 cards from the top of your Deck to the Graveyard, then increase this card's Level by the amount of \"Frostbite\" monsters sent to the Graveyard by this effect. If this card is used as the only tribute for the Ritual Summon of a \"Frostbite\" monster, you can shuffle cards from your Graveyard into your Deck up to the difference between this card's Original Level and it's Level when it was tributed",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1700,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

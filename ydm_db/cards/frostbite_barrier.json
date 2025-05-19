@@ -1,0 +1,12 @@
+{
+  "id": 23063767,
+  "name": "Frostbite Barrier",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 \"Frostbite\" monster you control, until the End Phase of the next turn, that monster cannot be destroyed by battle or card effects, and is unaffected by the effects of Level/Rank 5+ monsters.",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": Normal""
+}

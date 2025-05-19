@@ -1,0 +1,21 @@
+{
+  "id": 91568891,
+  "name": "Undead Frostbite Ruler",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can Normal Summon this card without tributing, but if you do its ATK becomes 0. Once per turn, you can target 1 \"Frostbite\" monster you control, reveal i DARK Ritual Monster in your hand, the targeted monster becomes the same Level as the revealed monster. You can only Special Summon \"Frostbite\" monsters the turn this effect is activated.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2200,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 6,
+  "is_tuner": false
+}

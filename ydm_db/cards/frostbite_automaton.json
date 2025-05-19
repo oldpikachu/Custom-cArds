@@ -1,0 +1,21 @@
+{
+  "id": 93994280,
+  "name": "Frostbite Automaton",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card cannot be special summoned from your hand. Once per turn, you can tribute i Level 6 or lower \"Frostbite\" monster you control, then increase this card's Level by the Level of the tributed monster.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2200,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}

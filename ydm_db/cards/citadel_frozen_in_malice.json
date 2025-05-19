@@ -1,0 +1,12 @@
+{
+  "id": 38237534,
+  "name": "Citadel Frozen in Malice",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While you control this card, your opponent cannot target \"Frostbite\" monsters you control with card effects. Once per turn, you can discard 1 \"Frostbite\" monster, then Ritual Summon any \"Frostbite\" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

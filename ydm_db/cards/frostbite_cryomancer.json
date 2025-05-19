@@ -1,0 +1,21 @@
+{
+  "id": 86288448,
+  "name": "Frostbite Cryomancer",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can Ritual Summon this card with any \"Frozen\" card. When this card is Ritual Summoned, if the Level of the monster(s) tributed was higher than this card's Level, you can destroy Spell/Trap cards on the field up to the difference. While you control another \"Frostbite\" monster other than \"Frostbite Cryomancer\", your opponent cannot target this card with card effects.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2600,
+  "species": "Spellcaster",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 6,
+  "is_tuner": false
+}

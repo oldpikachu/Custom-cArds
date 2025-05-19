@@ -1,0 +1,12 @@
+{
+  "id": 57746146,
+  "name": "Malicious Frostcore",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Add 1 \"Frostbite\" monster to your hand, then send 1 \"Frostbite\" monster from your Deck to the Graveyard with an equal or greater Level than the monster added to the hand. During the turn this card was activated, you can Normal Summon 1 \"Frostbite\" monster in addition to your Normal Summon/Set this turn.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

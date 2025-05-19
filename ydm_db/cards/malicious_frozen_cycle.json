@@ -1,0 +1,12 @@
+{
+  "id": 73535192,
+  "name": "Malicious Frozen Cycle",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When your opponent's monster declares an attack, you can immediately after this effect resolves, Ritual Summon any \"Frostbite\" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon.",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

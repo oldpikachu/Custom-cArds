@@ -1,0 +1,21 @@
+{
+  "id": 57963750,
+  "name": "Frostbite Tunneler",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can Ritual Summon this card with any \"Frozen\" card. When this card is Ritual Summoned, if the Level of the monster(s) tributed was higher than this card's Level, make your opponent discard cards up to the difference. While there is a \"Frostbite\" monster in your Graveyard, this card is unaffected by opponent's Spell/Trap effects.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2700,
+  "species": "Wyrm",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 58508766,
+  "name": "Wasteland Glacier Wall",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Your opponent cannot target monsters you control for an attack, except the monster you control with the highest Level. If the monster you control with the highest Level is a \"Frostbite\" Ritual Monster, all monsters your opponent controls lose 500 ATK.",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

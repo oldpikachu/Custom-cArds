@@ -1,0 +1,21 @@
+{
+  "id": 21180485,
+  "name": "Frostbite Golem",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is Normal Summoned, you can ass 1 \"Frostbite\" Ritual Monster to your hand, then you can discard 1 \"Frostbite\" monster then make this card's level the same as the Ritual Monster added to the hand",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1700,
+  "species": "Aqua",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

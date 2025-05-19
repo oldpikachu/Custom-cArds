@@ -1,0 +1,21 @@
+{
+  "id": 84404602,
+  "name": "Frostbite Archfiend",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can Special Summon this card (from your hand) by tributing 1 Normal Summoned \"Frostbite\" monster. If the monster tributed to Special Summon this card had a Level that was different from it's Original Level, increase the Level of this card by 3 until the End Phase.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2400,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false
+}

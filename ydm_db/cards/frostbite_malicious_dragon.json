@@ -1,0 +1,21 @@
+{
+  "id": 80540739,
+  "name": "Frostbite Malicious Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can Ritual Summon this card with any \"Frozen\" card. When this card is Ritual Summoned, if the Level of the monster(s) tributed was higher than this card's Level, Special Summon \"Frostbite\" Ritual Monsters from your Graveyard up to the difference. Once per turn, you can target 1 monster your opponent controls, that monster loses 1000 ATK for each Ritual Monster on the field.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3500,
+  "species": "Dragon",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3200,
+  "level": 10,
+  "is_tuner": false
+}

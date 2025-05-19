@@ -1,0 +1,21 @@
+{
+  "id": 34887920,
+  "name": "Frostbite Cryofiend",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can Ritual Summon this card with any \"Frozen\" card. When this card is Ritual Summoned, if the Level of the monster(s) tributed was higher than this card's Level, you can excavate cards from the top of your Deck up to the difference, then place the excavated cards on top of your Deck in any order. If this card is destroyed, shuffle it into the Deck during the End Phase.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Aqua",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 4,
+  "is_tuner": false
+}
