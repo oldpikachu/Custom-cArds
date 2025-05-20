@@ -1,0 +1,26 @@
+{
+  "id": 12718008,
+  "name": "Symbiotic Entity",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "3+ Dragon Xyz, Fusion, or Synchro monsters\nIf this card was special summoned from the GY destroy this card. Once per turn, you can target monsters in your GY equil to the number of monster this card links to, banish them, then deal damage to your opponent equil to the total number of levels or ranks banish x200",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3000,
+  "species": "Dragon",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 5,
+  "link_arrows": [
+    "Left",
+    "Bottom-Left",
+    "Bottom-Right",
+    "Bottom",
+    "Right"
+  ]
+}
