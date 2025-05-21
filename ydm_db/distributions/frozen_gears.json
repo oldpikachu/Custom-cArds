@@ -1,0 +1,133 @@
+{
+  "name": "frozen_gears",
+  "pulls": [
+    {
+      "weight": 600,
+      "entries": [
+        {
+          "count": 7,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 350,
+      "entries": [
+        {
+          "count": 7,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 25,
+      "entries": [
+        {
+          "count": 8,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultimate Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 10,
+      "entries": [
+        {
+          "count": 8,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Secret Rare",
+            "Prismatic Secret Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 14,
+      "entries": [
+        {
+          "count": 8,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Collector's Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 3,
+          "rarities": [
+            "Collector's Rare"
+          ]
+        },
+        {
+          "count": 3,
+          "rarities": [
+            "Secret Rare",
+            "Prismatic Secret Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "10000 Secret Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}
