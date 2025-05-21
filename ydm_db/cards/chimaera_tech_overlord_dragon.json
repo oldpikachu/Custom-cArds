@@ -1,0 +1,21 @@
+{
+  "id": 43180990,
+  "name": "Chimaera Tech Overlord Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "3 Tuners + \"Chimaera Tech Dragon\"\nIf this card is Synchro summoned by using a \"Chimaera\" Synchro monster, this card gains attack equil to the levels in your GY x200. Once Per Turn: Quick Effect you can banish 1 monster from you GY then banish all monsters on the feild whose level is lower than the banished monsters.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 4000,
+  "species": "Dragon",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3500,
+  "level": 12,
+  "is_tuner": false
+}
