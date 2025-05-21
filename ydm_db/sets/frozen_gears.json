@@ -1,0 +1,426 @@
+{
+  "name": "Frozen Gears",
+  "code": "FRGR",
+  "type": "Booster Pack (Series 19)",
+  "date": "18-05-2025",
+  "image": "",
+  "pull_type": "distribution",
+  "distribution": "frozen_gears",
+  "cards": [
+    {
+      "id": 52793992,
+      "code": "FRGR-000",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70281124,
+      "code": "FRGR-001",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64786303,
+      "code": "FRGR-002",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98446443,
+      "code": "FRGR-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86813164,
+      "code": "FRGR-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86313817,
+      "code": "FRGR-005",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1466768,
+      "code": "FRGR-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92358864,
+      "code": "FRGR-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23302777,
+      "code": "FRGR-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93431037,
+      "code": "FRGR-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54357760,
+      "code": "FRGR-010",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7452298,
+      "code": "FRGR-011",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83135359,
+      "code": "FRGR-012",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78867390,
+      "code": "FRGR-013",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88491854,
+      "code": "FRGR-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88491854,
+      "code": "FRGR-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93524277,
+      "code": "FRGR-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11222858,
+      "code": "FRGR-017",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55979598,
+      "code": "FRGR-018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66949591,
+      "code": "FRGR-019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66949591,
+      "code": "FRGR-020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64388029,
+      "code": "FRGR-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22401295,
+      "code": "FRGR-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60422047,
+      "code": "FRGR-023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43039362,
+      "code": "FRGR-024",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59370187,
+      "code": "FRGR-025",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7166497,
+      "code": "FRGR-026",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18918853,
+      "code": "FRGR-027",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8197235,
+      "code": "FRGR-028",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8556471,
+      "code": "FRGR-029",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38404161,
+      "code": "FRGR-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88341685,
+      "code": "FRGR-031",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54745562,
+      "code": "FRGR-032",
+      "rarity": "Collector's Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23110279,
+      "code": "FRGR-033",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6664631,
+      "code": "FRGR-034",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94496986,
+      "code": "FRGR-035",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48732478,
+      "code": "FRGR-036",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64427062,
+      "code": "FRGR-037",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24694326,
+      "code": "FRGR-038",
+      "rarity": "Collector's Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54964536,
+      "code": "FRGR-039",
+      "rarity": "10000 Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38237534,
+      "code": "FRGR-040",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84404602,
+      "code": "FRGR-041",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93994280,
+      "code": "FRGR-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23063767,
+      "code": "FRGR-043",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34887920,
+      "code": "FRGR-044",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86288448,
+      "code": "FRGR-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15524198,
+      "code": "FRGR-046",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21180485,
+      "code": "FRGR-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73119650,
+      "code": "FRGR-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80540739,
+      "code": "FRGR-049",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64934493,
+      "code": "FRGR-050",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34971940,
+      "code": "FRGR-051",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56639417,
+      "code": "FRGR-052",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 75796403,
+      "code": "FRGR-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68985830,
+      "code": "FRGR-054",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57963750,
+      "code": "FRGR-055",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48241945,
+      "code": "FRGR-056",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9423215,
+      "code": "FRGR-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98506485,
+      "code": "FRGR-058",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45974664,
+      "code": "FRGR-059",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89575482,
+      "code": "FRGR-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57746146,
+      "code": "FRGR-061",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73535192,
+      "code": "FRGR-062",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91568891,
+      "code": "FRGR-063",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58508766,
+      "code": "FRGR-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58508766,
+      "code": "FRGR-065",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4164730,
+      "code": "FRGR-066",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43180990,
+      "code": "FRGR-067",
+      "rarity": "Collector's Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12718008,
+      "code": "FRGR-068",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    }
+
+  ]
+}
