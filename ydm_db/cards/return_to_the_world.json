@@ -8,5 +8,5 @@
     ""
   ],
   "type": "Trap",
-  "spell_type": "Continuous"
+  "trap_type": "Continuous"
 }

@@ -1,0 +1,21 @@
+{
+  "id": 55252311,
+  "name": "World Beast - Nightingale",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can Ritual Summon this card with a 'Legacy of the World Beast' Card. If this Ritual Summoned Monster is Destroyed by Opponent card effect. you can target 1 'World Beast' Monster in your GY Special Summon it. Once Per Turn: You can banish a 'World Servant' Monster from your GY then deal damage to your opponent equal to the banished monsters DEF.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 3500,
+  "species": "Fiend",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3500,
+  "level": 10,
+  "is_tuner": false
+}

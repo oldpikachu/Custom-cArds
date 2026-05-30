@@ -2,7 +2,7 @@
   "id": 79501065,
   "name": "Data Alteration Black",
   "is_illegal": false,
-  "is_custom": false,
+  "is_custom": true,
   "text": "(This card is always treated as a 'Datashaper' card)\nTarget 2 Cyberse Monsters you control, declare a level from 1-8, until the End Phase both mosters become the declared level, then immediatly after this effect resolves, you can Xyz summon a Cyberse Xyz Monster using those targetd monsters and/or other Cyberse monsters as XYz Materials. If a Special Summoned Cyberse Monster you control is destroyed, you can shuffle 1 Xyz Monster from you GY into the Extra Deck, then set this card, but banish it when it leaves the field.",
   "images": [
     ""

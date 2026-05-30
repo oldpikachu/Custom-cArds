@@ -2,7 +2,7 @@
   "id": 38281419,
   "name": "Data Alteration Purple",
   "is_illegal": false,
-  "is_custom": false,
+  "is_custom": true,
   "text": "(This card is always treated as a 'Datashaper' card)\nFusion Summon 1 Cyberse Fusion Monster from your Extra Deck by using Cyberse Monster from your hand or field as Material. If a Special Summoned Cyberse monster you control is destroyed, you can shuffle 1 Fusion Monster from you GY into the Extra Deck, then set this card, but banishit when it leave the field.",
   "images": [
     ""

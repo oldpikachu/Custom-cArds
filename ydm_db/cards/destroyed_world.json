@@ -2,11 +2,11 @@
   "id": 35673690,
   "name": "Destroyed World",
   "is_illegal": false,
-  "is_custom": false,
+  "is_custom": true,
   "text": "If you have 6 or more 'World Beast' mosnters in your GY Destroy all cards on your field and deal damage to your oppoent equal to how many cards got destroyed x500.",
   "images": [
     ""
   ],
   "type": "Trap",
-  "spell_type": "Normal"
+  "trap_type": "Normal"
 }

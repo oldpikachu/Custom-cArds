@@ -2,7 +2,7 @@
   "id": 49741965,
   "name": "Trial by Fire",
   "is_illegal": false,
-  "is_custom": false,
+  "is_custom": true,
   "text": "When you Normal Summon a 'World Servant' Monster you can add a 'World' counters to this card. Once Per Turn: You can remove 2 'World' counters from this card then Special Summon a 'World Servant' Form your Hand or GY.",
   "images": [
     ""

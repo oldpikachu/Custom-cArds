@@ -2,7 +2,7 @@
   "id": 63087812,
   "name": "Data Alteration Blue",
   "is_illegal": false,
-  "is_custom": false,
+  "is_custom": true,
   "text": "(This card is always treated as a 'Datashaper' card)\nThis Set card can be activated furing your opponents turn. This Card is used to Ritual Summon any Cyberse Ritual Monster. You must also Tribute Cyberse Monsters from your field or hand whose total levels equal or exceed the level of the Ritual Monster that you Ritual Summon. If a Special Summoned Syberse Monster you control is destroyed, you can add 1 Cyberse Monster from your GY to your hand, then set this card, but banish it when it leaves the field.",
   "images": [
     ""

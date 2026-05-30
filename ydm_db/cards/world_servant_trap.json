@@ -2,11 +2,11 @@
   "id": 79722646,
   "name": "World Servant Trap",
   "is_illegal": false,
-  "is_custom": false,
+  "is_custom": true,
   "text": "When your opponent special summons a monster that is level 6 or lower; Target that monster; Destroy that target. Then Special Summon a Level 4 or lower 'World Servant' Monster from your GY in face-up Defence position.",
   "images": [
     ""
   ],
   "type": "Trap",
-  "spell_type": "Normal"
+  "trap_type": "Normal"
 }

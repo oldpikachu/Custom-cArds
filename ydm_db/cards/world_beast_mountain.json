@@ -2,7 +2,7 @@
   "id": 88233997,
   "name": "World Beast Mountian",
   "is_illegal": false,
-  "is_custom": false,
+  "is_custom": true,
   "text": "'World Beast' Mosnters you control cannot be destroyed by card effect. Once Per Turn: You can tribute one 'World Servant' monster you control then special summon monsters total level Equals the tributed monsters. If a 'World Beast' mosnter would be destroyed you can send one card from your extra deck to the GY instead.",
   "images": [
     ""

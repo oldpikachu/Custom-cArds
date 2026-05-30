@@ -2,7 +2,7 @@
   "id": 34458528,
   "name": "Sealed World Beast",
   "is_illegal": false,
-  "is_custom": false,
+  "is_custom": true,
   "text": "When a 'World Beast' Monster you control would be destroyed you can discard a 'World Servant' Monster you control Banish that 'World Beast' Monster, during the end step Special Summon the 'World Beast' Mosnter banishe by this effect.",
   "images": [
     ""
