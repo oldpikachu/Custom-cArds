@@ -1,0 +1,22 @@
+{
+  "id": 54098569,
+  "name": "Datashaper Glitch Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When a 'Datashaper' Monster is Normal Summoned, you can Special Summon this card (from your hand). Once Per Turn: You can Target 1 'Datashaper' monster you control, until the end phase, that card is treated as a Tuner Monster",
+  "images": [
+    ""
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1600,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

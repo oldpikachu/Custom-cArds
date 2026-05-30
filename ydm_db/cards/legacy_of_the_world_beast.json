@@ -1,0 +1,12 @@
+{
+  "id": 73230658,
+  "name": "Legacy of the World Beast",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card can be used to Ritual Summon 'World Beast - Nightingale'. You must use also Tribute monsters from the field or GY whose total levels equal the level of the Ritual Monster you are attempting to Ritual Summon. If a 'World Servant' Mosnter is used to Ritual Summon this summon cannot be Negated.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Ritual"
+}

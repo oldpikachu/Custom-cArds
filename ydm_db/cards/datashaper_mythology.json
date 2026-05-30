@@ -1,0 +1,25 @@
+{
+  "id": 22155948,
+  "name": "Datashaper Mythology",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2+ Cyberse Monsters\nWhen this card is Link Summoned, you can add 1 'Datashaper' monster from your Deck to your hand. If this card is sent to the GY you can Special Summon up to 2 'Datashaper' Mosnters from your GY then draw 1 card.",
+  "images": [
+    ""
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2400,
+  "species": "Cyberse",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 3,
+  "link_arrows": [
+	"Top-Right",
+	"Bottom",
+    "Bottom-Right"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 81346691,
+  "name": "Data Alteration Green",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "(This card is always treated as a 'Datashaper' card)\nTarget 1 Cyberse monster you control, that monster is trated as a Tuner monster until the End Phase, then immediately after this effect resolves, you can Synchro Summon a Cyberse Synchro Monster using that targeted monster and other Cyberse monsters as Synchro Material. If a Special Summoned Cyberse monster you control is destroyed, you can shuffle 1 Synchro Monster from you GY into the Extra Deck, then set this card, but banishit when it leave the field.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Quick"
+}

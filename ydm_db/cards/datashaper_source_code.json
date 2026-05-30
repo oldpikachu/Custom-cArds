@@ -1,0 +1,12 @@
+{
+  "id": 21072684,
+  "name": "Datashaper Source Code",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Special Summon 1 'Datashaper' Monster from your hand in Defense Position.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Quick"
+}

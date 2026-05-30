@@ -1,0 +1,12 @@
+{
+  "id": 49588821,
+  "name": "Return to the World",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Target a 'World Beast' Monster in yout GY; Special summon that card. If the Monster special summoned with this effect would be destoryed; Destroy this card instead.",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "spell_type": "Continuous"
+}

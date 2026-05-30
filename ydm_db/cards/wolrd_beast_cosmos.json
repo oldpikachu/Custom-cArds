@@ -1,0 +1,25 @@
+{
+  "id": 88414288,
+  "name": "World Beast - Cosmos",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2+ 'World Servant' Monsters\nAny Monster this card points too can Attack Directly. Once Per Turn: You can tribute a 'World Servent' Mosnter this card points too and add a 'Word' spell or trap card from your deck to your hand.",
+  "images": [
+    ""
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2750,
+  "species": "Dragon",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 3,
+  "link_arrows": [
+    "Top",
+    "Bottom-Left",
+    "Bottom-Right"
+  ]
+}

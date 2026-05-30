@@ -1,0 +1,22 @@
+{
+  "id": 44036745,
+  "name": "Datashaper Powerpoint",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is Special Summone by the effect of a 'Datashaper' Card, you can draw 2 cards, then discard 1 card. If this card is sent to the GY, you can draw 1 card.",
+  "images": [
+    ""
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1600,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
+}

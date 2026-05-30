@@ -1,0 +1,22 @@
+{
+  "id": 36818564,
+  "name": "Datashaper Supervisor",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can Ritual Summon this card with 'Data Alteration Blue'. Once Per Turn (Quick Effect): You can target 1 Cyberse monster you control, until the End Phase that mosnter is unaffected by other card effects. If this card is sent to the GY, you can Special Summon 1 'Datashaper' Monster from your hand.",
+  "images": [
+    ""
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2300,
+  "species": "Cyberse",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1700,
+  "level": 6,
+  "is_tuner": false
+}

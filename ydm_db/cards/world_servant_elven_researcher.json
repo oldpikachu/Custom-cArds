@@ -1,0 +1,22 @@
+{
+  "id": 71870919,
+  "name": "World Servant - Elven Researcher",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is summoned you can target one monster you control it is treated as a treated as a Tuner monster until the end of this turn.",
+  "images": [
+    ""
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 0,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 2,
+  "is_tuner": true
+}

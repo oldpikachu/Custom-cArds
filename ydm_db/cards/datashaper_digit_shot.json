@@ -1,0 +1,12 @@
+{
+  "id": 29016328,
+  "name": "Datashaper Digit Shot",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Tribute 1 face-up Cyberse Monster you control; then add 1 'Datashaper' Monsterfrom your deck to your hand with a different name then the Tributed monster.",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "spell_type": "Normal"
+}

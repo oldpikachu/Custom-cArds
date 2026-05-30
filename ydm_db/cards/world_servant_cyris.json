@@ -1,0 +1,22 @@
+{
+  "id": 75334806,
+  "name": "World Servant - Cyris",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can tribute this card the add one card from your deck to your hand that mentions a 'World Beast' Monster. If you control a 'World Servant' Monster while this card is in your GY, you can discard one card then special summon this card in face-up defence position",
+  "images": [
+    ""
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 200,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1900,
+  "level": 4,
+  "is_tuner": true
+}

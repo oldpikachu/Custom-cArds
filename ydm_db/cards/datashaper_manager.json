@@ -1,0 +1,22 @@
+{
+  "id": 60535444,
+  "name": "Datashaper Manager",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card can be Special Summoned (from your hand) by shuffling 1 'Datashaper' Spell/Trap card from your hand into the Deck. If this card is sent to the GY, you can Special Summon 2 level 4 'Datashaper' Monsters from your hand. you can only activate each effect of 'Datashaper Manager' Once per turn.",
+  "images": [
+    ""
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2200,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1200,
+  "level": 6,
+  "is_tuner": false
+}

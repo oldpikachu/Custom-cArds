@@ -1,0 +1,22 @@
+{
+  "id": 71870919,
+  "name": "World Servant - Holy Knight",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Cannot be normal Summoned/Set. must be special summoned by the effect of a 'World Servant' Monster Card. When this card is summoned all 'World Servant' monsters you control gain 500 ATK.",
+  "images": [
+    ""
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 3000,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1700,
+  "level": 8,
+  "is_tuner": false
+}

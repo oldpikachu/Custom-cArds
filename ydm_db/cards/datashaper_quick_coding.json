@@ -1,0 +1,12 @@
+{
+  "id": 48464932,
+  "name": "Datashaper Quick Coding",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When an opponents monster attacks a 'Datashaper' monster you control; you can Tribute that monster; Special Summon 1 'Datashaper' Monster from your hand with a different name then the Tributed mosnter.",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "spell_type": "Counter"
+}

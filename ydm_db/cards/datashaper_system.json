@@ -1,0 +1,12 @@
+{
+  "id": 29016328,
+  "name": "Datashaper System",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Add 1 'Datashaper' Monster from your deck to your hand; then target 1 card on your opponent's field negate that cards effects.",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 03424436,
+  "name": "Altering the Code",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Target 1 Cyberse monster you control, return that monster to the hand, then specual summon 1 Cyberse monster from your Deck with a different Attribute from the targeted monster",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 70267731,
+  "name": "World Servant - Dragon Slayer",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is Special Summoned you can make this card level 10 until the end of the turn.",
+  "images": [
+    ""
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2300,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 5,
+  "is_tuner": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 27814672,
+  "name": "World Beast - Slytherin",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Cannot be Normal Summoned/Set. Must first be special summoned by effect of a 'World Servant' Monster. Once Per Turn: You can discard one card then banish one card in either players GY. If a Warrior monster is banished Special summon it to its owners field. This card gains ATK equil to the number of 'World Servant' Monster cards in your banished zone x1000",
+  "images": [
+    ""
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "DRAGON",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3000,
+  "rank": 10,
+  "is_tuner": false
+}

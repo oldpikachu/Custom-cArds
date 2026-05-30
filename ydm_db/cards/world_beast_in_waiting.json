@@ -1,0 +1,12 @@
+{
+  "id": 39323615,
+  "name": "World Beast in Waiting",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When a 'World' Monster you control would be target for an attack you can make your opponent target a 'World Beast' Mosnter you control",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "spell_type": "Normal"
+}

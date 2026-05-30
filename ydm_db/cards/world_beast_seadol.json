@@ -1,0 +1,22 @@
+{
+  "id": 32209318,
+  "name": "World Beast - Seadol",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 Tuner + 1 non-Tuner\nOnce Per Turn: You can target a 'World Servant' Monster you control or that is your GY this cards Level becomes the same as the targeted monsters.",
+  "images": [
+    ""
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2500,
+  "species": "Sea Serpent",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 6,
+  "is_tuner": true
+}

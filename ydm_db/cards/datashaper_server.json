@@ -1,0 +1,12 @@
+{
+  "id": 19541347,
+  "name": "Datashaper Server",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When this card is activated; you can place 7 Data Counters on this card. when a 'Datashaper' Monster is Sepcial Summoned from the Extra deck, you can remove 1 Data Counter from this card; that Summoned Monster gains 400 ATK.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

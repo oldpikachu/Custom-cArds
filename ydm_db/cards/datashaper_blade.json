@@ -1,0 +1,22 @@
+{
+  "id": 91304890,
+  "name": "Datashaper Blade",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "While the only monsters you control are non-LIGHT 'Datashaper' Monsters, you can Special Summon this card (from your hand). Once Per Duel: When this card is sent to the GY you can add this card to your hand during the end phase.",
+  "images": [
+    ""
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1800,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 37124041,
+  "name": "World Beast - Atlas",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "5 'World Beast' Monsters\nIf this card is Fusion Summoned using monsters you control; place a 'World' Token onto every other monster on the field; Monsters with 'World' Tokens cannot activate their effects or declare an attack, While you have 5 or more 'World Beast' Mosters in your GY This card cannot be destroyed by card effect.",
+  "images": [
+    ""
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 5000,
+  "species": "Dragon",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 5000,
+  "level": 13,
+  "is_tuner": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 14716612,
+  "name": "World Servant - Squire",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When you Normal Summon this card you can target one 'World Servant' monster you control, its increase its level by 3.",
+  "images": [
+    ""
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 3,
+  "is_tuner": true
+}

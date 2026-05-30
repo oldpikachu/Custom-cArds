@@ -1,0 +1,22 @@
+{
+  "id": 47998749,
+  "name": "Datashaper Jelly",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When your opponent's monster attacks a 'Datashaper' Monster you control, you can Special Summon this card from your hand, then negate the attack. If this card is sent to the GY, you can add 1 'Datashaper' Card from your GY to your hand other than 'Datashaper Jelly'.",
+  "images": [
+    ""
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 0,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 2,
+  "is_tuner": true
+}

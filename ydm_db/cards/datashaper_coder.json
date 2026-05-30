@@ -1,0 +1,22 @@
+{
+  "id": 82253814,
+  "name": "Datashaper Coder",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When a 'Datashaper' Monster you control is sent to the GY you can Special Summon this card (from your hand). When this card is sent to the GY, you can target 1 mosnter you control, that monster gains 500 ATK until the End Phase.",
+  "images": [
+    ""
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1500,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 4,
+  "is_tuner": false
+}

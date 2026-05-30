@@ -1,0 +1,22 @@
+{
+  "id": 78260101,
+  "name": "Datashaper Glitch",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card can only be used as Synchro Meterial for Cyberse Synchro Monstes. While you control a 'Datashaper' Monster you can Special Summon this card (from your hand). When this card is sent to the GY. You can add 1 'Datashaper' Spell/Trap card from yoru deck to your hand/ You can only use each effect of 'Datashaper Glitch' Once per turn.",
+  "images": [
+    ""
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 1600,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 4,
+  "is_tuner": true
+}

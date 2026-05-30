@@ -1,0 +1,22 @@
+{
+  "id": 10429470,
+  "name": "World Servant - Bowman",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Once Per Turn: you can special summon a 'World Servant' Monster from your hand by tributing monsters whose ATK equals the 'World Servant' in your hand.",
+  "images": [
+    ""
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2000,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 900,
+  "level": 4,
+  "is_tuner": false
+}

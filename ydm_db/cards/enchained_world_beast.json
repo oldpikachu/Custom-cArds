@@ -1,0 +1,12 @@
+{
+  "id": 32969535,
+  "name": "Enchained World Beast",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When a 'World Beast' monster you control gets destroyed by card effect, can target that destroyed card and special summon that card. Its ATK and DEF becomes 0 and its effect is negated.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}
