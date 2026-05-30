@@ -1,0 +1,22 @@
+{
+  "id": 65975856,
+  "name": "Darkness Metal Guardian",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can Special Summon this card (from your hand) By banishing 1 DARK monster from your GY. This card cannot be destroyed by battle by a DARK monster",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2150,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1150,
+  "level": 5,
+  "is_tuner": true
+}
+}

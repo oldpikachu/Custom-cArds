@@ -1,0 +1,25 @@
+{
+  "id": 41420951,
+  "name": "Voltic Greatkong",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is Link Summoned, you can add I LIGHT or EARTH Beast monster from your Deck to your hand. While this card points too a Level 5+ Beast monster, this card is unaffected by your opponent's card effects.Other Beast monsters you control gain 300 ATK.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Beast",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 4,
+  "link_arrows": [
+    "Left",
+    "Bottom-Left",
+	"Right",
+    "Bottom-Right"
+  ]
+}

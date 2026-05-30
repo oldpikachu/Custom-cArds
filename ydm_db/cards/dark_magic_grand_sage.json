@@ -1,0 +1,21 @@
+{
+  "id": 88497024,
+  "name": "Dark Magic Grand Sage",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "A mysterius Wizard only appering in fairy tales.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 8,
+  "is_tuner": false
+}

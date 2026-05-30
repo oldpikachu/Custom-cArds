@@ -1,0 +1,20 @@
+{
+  "id": 70747579,
+  "name": "The Blair Witch Reaper",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "3+ Zombie monsters\nDuring your Opponents turn after this card was summoned, Zombie monsters you control cannot be destroyed by card effect. Once Per Turn: you can detach 1 material from this card, target 1 mosnter with DEF lower than this card, this card gains ATK equal to the target monster.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Zombie",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3500,
+  "rank": 8,
+}

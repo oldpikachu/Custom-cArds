@@ -1,0 +1,21 @@
+{
+  "id": 69989620,
+  "name": "Ultimate King of Yamimakai",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "'King of Yamimakai' + 1 Level 5+ Fiend Monster\nAll other DARK monsters you control cannot be targeted or destroyed by battle exept for 'Ultimate King of Yamimakai' Once Per Turn: You can Nomral Summon/Set 1 level 5 or 6 DARK monster without tributing in addition to your Normal Summon.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Fiend",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

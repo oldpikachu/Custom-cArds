@@ -1,0 +1,21 @@
+{
+  "id": 78405282,
+  "name": "Jade-Eyes Galaxy Void Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "'Blue-Eyes White Dragon' + ' Red-Eyes Black Dragon' + 'Odd-Eyes Pendulum Dragon'\nDuring the turn this card was Fusion Summoned card effects cannot be activated unless it is a DRAGON monster. Once Per Turn: you can banish 1 Dragon Monster from your GY then special summon a monster with the same level from your Deck.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 4000,
+  "species": "Dragon",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3500,
+  "level": 13,
+  "is_tuner": false
+}
