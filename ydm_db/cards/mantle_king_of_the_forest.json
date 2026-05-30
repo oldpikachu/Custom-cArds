@@ -1,0 +1,21 @@
+{
+  "id": 44277958,
+  "name": "Mantle King of the Forest",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 Tuners + 2 non-Tuners\nIf this card was synchro summoned destroy all EARTH and WIND monsters on the feild. Once per turn: targat 1 empty monster zone (max 1) if a monster is summoned is the targat zone that monster losses 200 ATK one every stand by phase if that cards ATK reached o destroy that card",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 3350,
+  "species": "Beast",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3450,
+  "level": 9,
+  "is_tuner": false
+}

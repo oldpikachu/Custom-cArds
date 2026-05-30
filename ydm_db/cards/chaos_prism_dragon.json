@@ -1,0 +1,21 @@
+{
+  "id": 37674854,
+  "name": "Chaos Prism Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When a Dragon monster you control is destroyed, you can Special Summon this card (from your hand). Once per turn, you can target I monster you control, destroy it, then destroy a monster your opponent controls with the same Level as the destroyed monster.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3000,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 9,
+  "is_tuner": false
+}
