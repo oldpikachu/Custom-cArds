@@ -260,7 +260,7 @@
       "image_index": 0
     },
     {
-      "id": ,
+      "id": 70267731,
       "code": "CRBK-042",
       "rarity": "Common",
       "image_index": 0
@@ -302,7 +302,7 @@
       "image_index": 0
     },
     {
-      "id": ,
+      "id": 44277958,
       "code": "CRBK-049",
       "rarity": "Ultimate Rare",
       "image_index": 0
@@ -320,7 +320,7 @@
       "image_index": 0
     },
     {
-      "id": ,
+      "id": 37674854,
       "code": "CRBK-052",
       "rarity": "Prismatic Secret Rare",
       "image_index": 0
@@ -420,8 +420,9 @@
       "code": "CRBK-068",
       "rarity": "Prismatic Secret Rare",
       "image_index": 0
-    }
-	      "id": 70747579,
+    },
+	{
+	  "id": 70747579,
       "code": "CRBK-069",
       "rarity": "Super Rare",
       "image_index": 0
@@ -443,35 +444,31 @@
       "code": "CRBK-072",
       "rarity": "Ultra Rare",
       "image_index": 0
-    }
-	    }
-	      "id": 75334806,
+    },
+	{
+	  "id": 75334806,
       "code": "CRBK-073",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 70267731,
-      "code": "CRBK-074",
-      "rarity": "Common",
-      "image_index": 0
-    },
-    {
       "id": 85232901,
-      "code": "CRBK-075",
+      "code": "CRBK-074",
       "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 27814672,
-      "code": "CRBK-076",
+      "code": "CRBK-075",
       "rarity": "Ultra Rare",
       "image_index": 0
-    }
-	    }
-	      "id": 37124041,
-      "code": "CRBK-077",
+    },
+	{
+	  "id": 37124041,
+      "code": "CRBK-076",
       "rarity": "Collector's Rare",
       "image_index": 0
+    }
+
   ]
 }
