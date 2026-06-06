@@ -1,0 +1,85 @@
+{
+  "name": "dreams_of_the_future",
+  "pulls": [
+    {
+      "weight": 450,
+      "entries": [
+        {
+          "count": 4,
+          "rarities": [
+            "Super Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 350,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": [
+            "Super Rare"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Secret Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 189,
+      "entries": [
+        {
+          "count": 3,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Secret Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 11,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Secret Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Starlight Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}
