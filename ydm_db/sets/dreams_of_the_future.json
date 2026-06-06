@@ -1,0 +1,792 @@
+{
+  "name": "Dreams of the Future",
+  "code": "DRFT",
+  "type": "Booster Pack (Series 19)",
+  "date": "18-05-2025",
+  "image": "",
+  "pull_type": "distribution",
+  "distribution": "dreams_of_the_future",
+  "cards": [
+    {
+      "id": 3410461,
+      "code": "DRFT-000",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93053159,
+      "code": "DRFT-001",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38811586,
+      "code": "DRFT-002",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91337277,
+      "code": "DRFT-003",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67288539,
+      "code": "DRFT-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98630720,
+      "code": "DRFT-005",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84464389,
+      "code": "DRFT-006",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66452432,
+      "code": "DRFT-007",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6560411,
+      "code": "DRFT-008",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21570001,
+      "code": "DRFT-009",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84343351,
+      "code": "DRFT-010",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59765225,
+      "code": "DRFT-011",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71398055,
+      "code": "DRFT-012",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97417863,
+      "code": "DRFT-013",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30998403,
+      "code": "DRFT-014",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12381100,
+      "code": "DRFT-015",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71101678,
+      "code": "DRFT-016",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44094981,
+      "code": "DRFT-017",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45716579,
+      "code": "DRFT-018",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70538272,
+      "code": "DRFT-019",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21637210,
+      "code": "DRFT-020",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16926971,
+      "code": "DRFT-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34904525,
+      "code": "DRFT-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97783338,
+      "code": "DRFT-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61398234,
+      "code": "DRFT-024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8505920,
+      "code": "DRFT-025",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48958757,
+      "code": "DRFT-026",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72246674,
+      "code": "DRFT-027",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7473735,
+      "code": "DRFT-028",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23361526,
+      "code": "DRFT-029",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82286798,
+      "code": "DRFT-030",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48626373,
+      "code": "DRFT-031",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33925864,
+      "code": "DRFT-032",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69540484,
+      "code": "DRFT-033",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32909498,
+      "code": "DRFT-034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94392192,
+      "code": "DRFT-035",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8953369,
+      "code": "DRFT-036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21639276,
+      "code": "DRFT-037",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31149212,
+      "code": "DRFT-038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73542331,
+      "code": "DRFT-039",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68304193,
+      "code": "DRFT-040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34447918,
+      "code": "DRFT-041",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34771947,
+      "code": "DRFT-042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20726052,
+      "code": "DRFT-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94722358,
+      "code": "DRFT-044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57111661,
+      "code": "DRFT-045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96676583,
+      "code": "DRFT-046",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32061192,
+      "code": "DRFT-047",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20938824,
+      "code": "DRFT-048",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69272449,
+      "code": "DRFT-049",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21848500,
+      "code": "DRFT-050",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68059897,
+      "code": "DRFT-051",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95454996,
+      "code": "DRFT-052",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93453053,
+      "code": "DRFT-053",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68337209,
+      "code": "DRFT-054",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45065541,
+      "code": "DRFT-055",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71164684,
+      "code": "DRFT-056",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17272964,
+      "code": "DRFT-057",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 19671433,
+      "code": "DRFT-058",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44760562,
+      "code": "DRFT-059",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90465153,
+      "code": "DRFT-060",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18158393,
+      "code": "DRFT-061",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71277255,
+      "code": "DRFT-062",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80621253,
+      "code": "DRFT-063",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21368273,
+      "code": "DRFT-064",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62314831,
+      "code": "DRFT-065",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58019984,
+      "code": "DRFT-066",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20934852,
+      "code": "DRFT-067",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44293356,
+      "code": "DRFT-068",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 44146295,
+      "code": "DRFT-069",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7628844,
+      "code": "DRFT-070",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48348921,
+      "code": "DRFT-071",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89477759,
+      "code": "DRFT-072",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 41522092,
+      "code": "DRFT-073",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15862758,
+      "code": "DRFT-074",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41850466,
+      "code": "DRFT-075",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 66425726,
+      "code": "DRFT-076",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 98452268,
+      "code": "DRFT-077",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 30095833,
+      "code": "DRFT-078",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 82460246,
+      "code": "DRFT-079",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 71832012,
+      "code": "DRFT-080",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 77103950,
+      "code": "DRFT-081",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 56063182,
+      "code": "DRFT-082",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 71222868,
+      "code": "DRFT-083",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 27657173,
+      "code": "DRFT-084",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 6556909,
+      "code": "DRFT-085",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 38192988,
+      "code": "DRFT-086",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 38044854,
+      "code": "DRFT-087",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 10140443,
+      "code": "DRFT-088",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 57134592,
+      "code": "DRFT-089",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 57357130,
+      "code": "DRFT-090",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 46877100,
+      "code": "DRFT-091",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 5941982,
+      "code": "DRFT-092",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+		{
+	  "id": 83558891,
+      "code": "DRFT-093",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 83488497,
+      "code": "DRFT-094",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 19882096,
+      "code": "DRFT-095",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+		{
+	  "id": 32152870,
+      "code": "DRFT-096",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 7236721,
+      "code": "DRFT-097",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 78534861,
+      "code": "DRFT-098",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+		{
+	  "id": 53776969,
+      "code": "DRFT-099",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 82361809,
+      "code": "DRFT-100",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 79552283,
+      "code": "DRFT-101",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 41619242,
+      "code": "DRFT-102",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 59120809,
+      "code": "DRFT-103",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+{
+	  "id": 95245571,
+      "code": "DRFT-104",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 87451661,
+      "code": "DRFT-105",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 39915560,
+      "code": "DRFT-106",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 5148778,
+      "code": "DRFT-107",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 1329620,
+      "code": "DRFT-108",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 33878367,
+      "code": "DRFT-109",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 37961969,
+      "code": "DRFT-110",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 60362066,
+      "code": "DRFT-111",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 28226490,
+      "code": "DRFT-112",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 4928565,
+      "code": "DRFT-113",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 92731385,
+      "code": "DRFT-114",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 74078255,
+      "code": "DRFT-115",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 38436986,
+      "code": "DRFT-116",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 34225426,
+      "code": "DRFT-117",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 73956664,
+      "code": "DRFT-118",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 84330567,
+      "code": "DRFT-119",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 572850,
+      "code": "DRFT-120",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 6767771,
+      "code": "DRFT-121",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 74920585,
+      "code": "DRFT-122",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 65815684,
+      "code": "DRFT-123",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 30064423,
+      "code": "DRFT-124",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 37984331,
+      "code": "DRFT-125",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 14556954,
+      "code": "DRFT-126",
+      "rarity": "Starlight Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 821049,
+      "code": "DRFT-127",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 14391625,
+      "code": "DRFT-128",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+	  "id": 56099748,
+      "code": "DRFT-129",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+
+  ]
+}
