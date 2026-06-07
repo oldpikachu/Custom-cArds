@@ -1,0 +1,21 @@
+{
+  "id": 00412696,
+  "name": "Datashaper Observation",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 Tuner + 1+ non-Tuner Cyberse Monsters\nOnce Per Turn (Quick Effect): You can Target 1 Link Monster your Opponent controls. This card gains ATK Equal to that mosnter's Link rating x200. If this card is sent to the GY, you can shuffle 1 Cyberse monster from your GY into the deck then draw 1 card.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 2000,
+  "species": "Cyberse",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 6,
+  "is_tuner": false
+}
