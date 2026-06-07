@@ -1,21 +1,21 @@
 {
-  "id": 30412696,
-  "name": "Datashaper Observation",
+  "id": 60131501,
+  "name": "Datashaper Fragmentation Dragon",
   "is_illegal": false,
   "is_custom": true,
-  "text": "1 Tuner + 1+ non-Tuner Cyberse Monsters\nOnce Per Turn (Quick Effect): You can Target 1 Link Monster your Opponent controls. This card gains ATK Equal to that mosnter's Link rating x200. If this card is sent to the GY, you can shuffle 1 Cyberse monster from your GY into the deck then draw 1 card.",
+  "text": "1 Level 6+ Cyberse monster + 1 Cyberse Link Monster\nThis card cannot be targeted or destroyed by card effects. When this card battles an opponent's monster, you can banish i Cyberse monster from your Graveyard, destroy the monster this card is battling. If this card is sent to the Graveyard, you can Special Summon i banished Cyberse monster. You can only activate each effect of \"Datashaper Fragmentation Dragon\" once per turn.",
   "images": [
     ""
   ],
   "type": "Monster",
-  "attribute": "WIND",
-  "atk": 2000,
+  "attribute": "DARK",
+  "atk": 3000,
   "species": "Cyberse",
-  "monster_type": "Synchro",
+  "monster_type": "Fusion",
   "is_pendulum": false,
   "ability": "",
   "has_effect": true,
-  "def": 1000,
-  "level": 6,
+  "def": 2500,
+  "level": 8,
   "is_tuner": false
 }

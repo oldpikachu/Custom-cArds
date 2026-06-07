@@ -1,5 +1,5 @@
 {
-  "id": 93841716,
+  "id": 03841716,
   "name": "Datashaper Chevalier",
   "is_illegal": false,
   "is_custom": true,
@@ -16,5 +16,5 @@
   "ability": "",
   "has_effect": true,
   "def": 2000,
-  "rank": 4,
+  "rank": 4
 }
