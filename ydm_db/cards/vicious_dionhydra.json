@@ -1,0 +1,25 @@
+{
+  "id": 7560457,
+  "name": "Vicious Dionhydra",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Up to twice while face-up on the field (Quick Effect): You can target i monster your opponent controls, equip it to this card. This card gains 500 ATK for each card equipped to it by this effect. You can destroy all monsters equipped to this card, Special Summon 'Dionhydra Head Tokens' (Plant/DARK/Level 5/ATK 2100/DEF 400) to Zones this card points too up to the number of cards destroyed by this effect.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Plant",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 4,
+  "link_arrows": [
+    "Top",
+	"Bottom",
+	"Bottom-Left",
+    "Bottom-Right"
+  ]
+}
