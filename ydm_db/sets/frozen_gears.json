@@ -420,6 +420,36 @@
       "code": "FRGR-068",
       "rarity": "Prismatic Secret Rare",
       "image_index": 0
+    },
+	{
+      "id": 56119233,
+      "code": "FRGR-069",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 92612289,
+      "code": "FRGR-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 68182689,
+      "code": "FRGR-071",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 27498846,
+      "code": "FRGR-072",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 54964537,
+      "code": "FRGR-073",
+      "rarity": "Overborder Rare",
+      "image_index": 0
     }
 
   ]

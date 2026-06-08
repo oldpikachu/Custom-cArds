@@ -463,9 +463,39 @@
       "rarity": "Ultra Rare",
       "image_index": 0
     },
+    {
+      "id": 60131501,
+      "code": "CRBK-076",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57628424,
+      "code": "CRBK-077",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57628425,
+      "code": "CRBK-078",
+      "rarity": "Overborder Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37383371,
+      "code": "CRBK-079",
+      "rarity": "Overborder Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52401611,
+      "code": "CRBK-080",
+      "rarity": "Overborder Rare",
+      "image_index": 0
+    },
 	{
 	  "id": 37124041,
-      "code": "CRBK-076",
+      "code": "CRBK-081",
       "rarity": "Collector's Rare",
       "image_index": 0
     }
