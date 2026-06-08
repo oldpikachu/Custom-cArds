@@ -71,7 +71,7 @@
       ]
     },
     {
-      "weight": 10,
+      "weight": 13,
       "entries": [
         {
           "count": 4,
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "weight": 14,
+      "weight": 10,
       "entries": [
         {
           "count": 4,
@@ -131,6 +131,41 @@
           "count": 1,
           "rarities": [
             "Collector's Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 4,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Overborder Rare"
           ]
         }
       ]
