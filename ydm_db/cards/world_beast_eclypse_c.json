@@ -1,0 +1,27 @@
+{
+  "id": 52401611,
+  "name": "World Beast - Eclypse",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "3+ 'World Servant' Monsters\nWhen this card is link summoned this cards ATK becomes equil to the combined total of all monster cards this card points too. Once Per Turn: You can destroy one monster card this card points to. Once Per Game (Quick Effect): When your opponent would activate a Spell/Trap card you can banish one monster card this card points to. if you do Negate the activation and destroy the card.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Dragon",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 6,
+  "link_arrows": [
+    "Left",
+    "Top",
+    "Right",
+    "Bottom",
+	"Bottom-Left",
+	"Bottom-Right"
+  ]
+}
