@@ -1,0 +1,163 @@
+{
+  "name": "molten_code",
+  "pulls": [
+    {
+      "weight": 598,
+      "entries": [
+        {
+          "count": 6,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 370,
+      "entries": [
+        {
+          "count": 6,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 5,
+      "entries": [
+        {
+          "count": 4,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Secret Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Diviant Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 14,
+      "entries": [
+        {
+          "count": 3,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 3,
+          "rarities": [
+            "Super Rare"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Secret Rare",
+            "Prismatic Secret Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 12,
+      "entries": [
+        {
+          "count": 8,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Collector's Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 3,
+          "rarities": [
+            "Collector's Rare"
+          ]
+        },
+        {
+          "count": 3,
+          "rarities": [
+            "Secret Rare",
+            "Prismatic Secret Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Overborder Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}
