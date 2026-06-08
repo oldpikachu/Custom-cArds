@@ -1,0 +1,12 @@
+{
+  "id": 12603448,
+  "name": "Magma in the fog",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Discard 1 card then target 2 \"Molten\" Monsters in your GY shuffle them back into you deck then draw 1 card. During the End Phase banish 1 \"Molten\" monster from your GY.",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

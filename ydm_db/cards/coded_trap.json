@@ -1,0 +1,12 @@
+{
+  "id": 24804020,
+  "name": "Coded Trap",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When a Opponent monster declares an Attack, reduce the attacking monsters attack by 1000.",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 58072282,
+  "name": "Witch Queen of the Nexus",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is Special Summoned halve its ATK and DEF. Once Per Turn: You can tribute 1 \"Nexus\" Monster you control then Special Summon 1 \"Nexus\" Monster from your deck with the same Level as the tributed monster.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2700,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2400,
+  "level": 7,
+  "is_tuner": false
+}

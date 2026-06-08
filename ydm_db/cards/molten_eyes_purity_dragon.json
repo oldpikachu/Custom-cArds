@@ -1,0 +1,25 @@
+{
+  "id": 75435966,
+  "name": "Molten-Eyes Purity Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2+ \"Molten-Eyes\" monster\nIf this card is Summoned using a \"Molten-Eyes\" Link monster it gains ATK equal to the monsters Link Rating x200. Once Per Turn: You can destroy a \"Molten-Eyes\" Monster you control that this card points too. then this card gains ATK equal to that monsters level x200 until the end of the turn.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 3000,
+  "species": "Dragon",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 4,
+  "link_arrows": [
+    "Bottom",
+	"Bottom-Left",
+	"Bottom-Right",
+	"top"
+  ]
+}

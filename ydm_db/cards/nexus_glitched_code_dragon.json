@@ -1,0 +1,21 @@
+{
+  "id": 57427681,
+  "name": "Nexus Glitched Code Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 'Nexus' Monsters\nIf this card is sent to the GY by Opponent's card effect, you can Fusion Summon 1 'Nexus' Fusion Monster from your Extra Deck by banishing up to 2 'Nexus' monsters from your GY. Once Per Turn: You can target 1 'Nexus' Monster you control and 1 monster your Opponent controls. That Opponents monster loses ATK equal to half the targeted 'Nexus' Monsters ATK until the end of the Turn.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2270,
+  "species": "Cyberse",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2030,
+  "level": 6,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 62991709,
+  "name": "Molten-Eyes Alternative Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by revealing \"Molten-Eyes Dragon\" in your hand. When this card is Special Summoned Target 1 monster on your opponents field, flip that monster to face-down defence position. If this card battles a Defence position monster inflict Piercing battle damage.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2900,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2400,
+  "level": 7,
+  "is_tuner": false
+}

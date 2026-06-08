@@ -1,0 +1,12 @@
+{
+  "id": 65864806,
+  "name": "Molten World",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "All FIRE monsters gain 300 ATK and 200 DEF. Once Per Turn: You can target a \"Molten-Eyes\" Monster in your GY and one \"Molten-Eyes\" Monster you control. Equip the monster in the GY onto the monster you control. that monster gains ATK equal to the level of the equipped monster x200.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

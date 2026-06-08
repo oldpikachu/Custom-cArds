@@ -1,0 +1,21 @@
+{
+  "id": 56119233,
+  "name": "Steamtech Dwarven Master",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can tribute this card then target 1 non-Tuner monster on your field, for the rest of this turn that monster is treated as a Tuner.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 1100,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": ,
+  "ability": "",
+  "has_effect": true,
+  "def": 900,
+  "level": 3,
+  "is_tuner": true
+}

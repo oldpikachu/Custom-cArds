@@ -1,0 +1,21 @@
+{
+  "id": 74039081,
+  "name": "Nexus Cyber Assassin",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "you can Tribute 1 \"Nexus\" Monster you control, then Special Summon this card. If this card battles a non-Cyberse monster it gains 400 ATK",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1600,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

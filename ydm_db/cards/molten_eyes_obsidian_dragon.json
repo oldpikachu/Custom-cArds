@@ -1,0 +1,25 @@
+{
+  "id": 36083119,
+  "name": "Molten-Eyes Obsidian Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2+ \"Molten-Eyes\" WATER monster\nWhen this card is Link Summoned you can target 1 \"Molten\" Spell/Trap card in your GY, add it to your hand. Once Per Turn: You can tribute a WATER monster you control then target 1 Spell/Trap card on your Opponenet's Field Destroy it. ",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2800,
+  "species": "Dragon",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 4,
+  "link_arrows": [
+    "Left",
+	"Right",
+	"Bottom-Left",
+	"Bottom-Right"
+  ]
+}

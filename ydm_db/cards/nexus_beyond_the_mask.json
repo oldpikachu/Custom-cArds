@@ -1,0 +1,21 @@
+{
+  "id": 32949946,
+  "name": "Nexus Beyond the Mask",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "while you control no monsters you can Special Summon this card from your Hand. If this card is used and a Material for a \"Nexus\" Special Summon the Summoned monster cannot be destroyed by card effect.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2100,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 5,
+  "is_tuner": false
+}

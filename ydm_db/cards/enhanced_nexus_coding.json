@@ -1,0 +1,12 @@
+{
+  "id": 70169800,
+  "name": "Enhanced Nexus Coding",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 \"Nexus\" Monster you control. its ATK and DEF become 0, The targeted monster cannot be destroyed by battle and all battle damage involving the targeted card is reduced to 0 while this card is on the field. ",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

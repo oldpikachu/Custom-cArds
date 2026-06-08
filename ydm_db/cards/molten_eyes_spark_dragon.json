@@ -1,0 +1,22 @@
+{
+  "id": 62799073,
+  "name": "Molten-Eyes Spark Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 FIRE monster\nWhile this card points too a \"Molten-Eyes\" monster this card cannot be destroyed by card effect. Once Per Turn: You can target 1 \"Molten-Eyes\" Monster in the GY, Special Summon it to a Zone this card points too. If this monster is used to Link Summon that summoned monster gains 500 ATK",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 0,
+  "species": "Dragon",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 1,
+  "link_arrows": [
+    "Bottom"
+  ]
+}

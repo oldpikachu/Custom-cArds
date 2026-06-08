@@ -1,0 +1,24 @@
+{
+  "id": 76507243,
+  "name": "Nexus Front Line Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2+ Cyberse Monsters\nWhen this card is special summoned you can discard 1 card then special summon a Cyberse monster to a zone this card points too. ",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2400,
+  "species": "Cyberse",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 3,
+  "link_arrows": [
+    "Top-Left",
+	"Bottom-Left",
+	"Bottom-Right"
+  ]
+}

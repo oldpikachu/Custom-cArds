@@ -1,0 +1,12 @@
+{
+  "id": 90327936,
+  "name": "Nexus Blackout",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 monster on your Opponent's Field, until the End Phase that monsters ATK becomes 0 and its effects are negated.",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

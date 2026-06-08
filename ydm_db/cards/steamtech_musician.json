@@ -1,0 +1,21 @@
+{
+  "id": 92612289,
+  "name": "Steamtech Musician",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is summoned you can target 1 'Steamtech' Monster you control. the targeted monsters level becomes equal to this cards.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 800,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": ,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 2,
+  "is_tuner": true
+}

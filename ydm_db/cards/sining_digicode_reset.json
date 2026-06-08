@@ -1,0 +1,25 @@
+{
+  "id": 65511424,
+  "name": "Shining DigiCode Reset",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "3+ Cyberse Monsters\nWhen this monster pointing to a Cyberse monster that Cyberse monster cannot be destroyed by battle. Once Per Turn: If an effect would be activated that would destroy a Cyberse monster you can banish this monster you control and if you do, negate the effect of that card. During the End Phase Special summon this card.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 3000,
+  "species": "Cyberse",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 4,
+  "link_arrows": [
+    "Top",
+	"Left",
+	"Right",
+	"Bottom"
+  ]
+}

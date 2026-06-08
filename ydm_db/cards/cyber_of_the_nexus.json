@@ -1,0 +1,21 @@
+{
+  "id": 16546659,
+  "name": "Cyber of the Nexus",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can target a \"Nexus\" Monster you control, Equip this card to that target. the targeted monster gains 400 ATK and DEF.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 400,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 400,
+  "level": 1,
+  "is_tuner": false
+}

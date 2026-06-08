@@ -1,0 +1,12 @@
+{
+  "id": 25479544,
+  "name": "Molten Furnace",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When a \"Molten\" Monster you control gets destroyed you can add 1 Magma Counter to this card. Once per turn: You can remove 2 Magma counter from this card then Special Summon a \"Molten\" Monster from your GY.  ",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

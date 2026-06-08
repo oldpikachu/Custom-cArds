@@ -1,0 +1,25 @@
+{
+  "id": 57840868,
+  "name": "Firewall Nexus Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2+ Cyberse Monsters\nIf this card was Link Summoned using a \"Nexus\" Monster its summon cannot be negated. Once per turn (Quick Effect): You can tribute a Cyberse Monster this card points too, then destroy an opponent monster with less DEF then the tributed monster. During the end phase if this card was sent to the GY this turn because of opponent card effect you can banish 1 \"Nexus\" Link monster from your GY then Special Summon this card.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Cyberse",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 4,
+  "link_arrows": [
+    "Top-Left",
+	"Top-Right",
+	"Bottom-Left",
+	"Bottom-Right"
+  ]
+}

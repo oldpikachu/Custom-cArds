@@ -1,0 +1,27 @@
+{
+  "id": 84484662,
+  "name": "Nexus Absolute Draco Cannon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "4+ 'Nexus' Link, Fusion, Synchro, or Xyz Monsters.\nDuring the turn this card was summoned Monster effects cannot be activated. Once Per Turn (Quick Effect): You can banish 1 'Nexus' Monster from your GY then target 1 monster with the same Attribute as the banished monster. Destroy the targeted monster. While you have 4 or more 'Nexus' monsters banished this card cannot be targeted by card effect.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 4500,
+  "species": "Cyberse",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 6,
+  "link_arrows": [
+    "Top",
+	"Bottom",
+	"left",
+	"Right",
+	"Bottom-Left",
+	"Bottom-Right"
+  ]
+}

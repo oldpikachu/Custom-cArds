@@ -1,0 +1,21 @@
+{
+  "id": 99003266,
+  "name": "Molten-Eyes Magma Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this monster battle an opponent monster place 1 Magma Counter on this card. Once per turn: You can remove as many Magma Coucters from this card as possable, then Special Summon a \"Molten-Eyes\" Moster with a level equal to the number of counters removed from this card.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 3000,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2400,
+  "level": 8,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 87046868,
+  "name": "Molten-Eyes Ashen Phoenix",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is Special Summoned by the effect of \"Molten-Eyes Ashen Hawk\" This card cannot be destroyed by card effect. Once Per Turn: You can Banish 1 card from your GY then Draw 1 card.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2300,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}

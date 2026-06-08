@@ -1,0 +1,12 @@
+{
+  "id": 99128821,
+  "name": "Digital AI Life",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When a \"Nexus\" monster is Normal Summoned you can Special Summon a \"Nexus\" monster with a lower level then the special summoned monster.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 87206896,
+  "name": "Molten-Eyes Pyro Pup",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is Normal Summoned you can Special summon a \"Molten-Eyes Pyro Pup\" From your deck. The effect of \"Molten-Eyes Pyro Pup\" Can only be activated once per turn. ",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 600,
+  "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 200,
+  "level": 2,
+  "is_tuner": true
+}

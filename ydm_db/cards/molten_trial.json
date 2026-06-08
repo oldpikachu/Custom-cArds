@@ -1,0 +1,12 @@
+{
+  "id": 12527446,
+  "name": "Molten Trial",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 Monster your opponent control and 1 \"Molten-Eyes\" Monster you control. Destroy both targets.",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

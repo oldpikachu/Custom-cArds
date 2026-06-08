@@ -1,0 +1,21 @@
+{
+  "id": 20521953,
+  "name": "Molten-Eyes Priestess",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is sent to the GY during the turn it was summoned you can Special Summon a \"Molten-Eyes\" Monster from your Deck exept for \"Molten-Eyes Priestess\"",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 0,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
+}

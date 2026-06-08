@@ -1,0 +1,12 @@
+{
+  "id": 43931185,
+  "name": "Molten Explosion",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If a \"Molten Eyes\" monster you control would be destoyed by battle involving an opponent's monster, you can banish that \"Molten-Eyes\" Monster. During the End Phase you can Special Summon the \"Molten-Eyes\" monster banished by this cards effect.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

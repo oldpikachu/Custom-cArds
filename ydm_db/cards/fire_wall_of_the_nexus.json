@@ -1,0 +1,12 @@
+{
+  "id": 15132986,
+  "name": "Fire Wall of the Nexus",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Each time a \"Nexus\" monster card is sent to the GY place 1 \"Nexus\" counter on this card. Once per turn: During your main phase you can remove up to 1 \"Nexus\" Counter from this card then Special Summon a Cyberse monster from your GY. \"Nexus\" Monsters you control gain 300 ATK.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 21873430,
+  "name": "Witch of the Nexus",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is Normal Summoned you can add a \"Nexus\" monster from your GY to your hand, if you have no other monsters on your Field Special Summon that monster instead.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1650,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1300,
+  "level": 4,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 36702991,
+  "name": "Biotech Nexus X Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 Tuner + 1+ non-Tuners\nIf this card is Synchro Summon with anything other then a \"Nexus\" Tuner monster send this card to this GY. Once Per Turn: (Quick Effect): You can discard 1 card then target an oppoonents Special Summon monster it has effects are until the end of your next turn. If this card Battles a Opponent's Cyberse monster this card gains 500 ATK. ",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Cyberse",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 53747627,
+  "name": "Nexus Dragon Sentinel",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2+ 'Nexus' Monsters\nIf this card is sent to the GY by an opponent's card effect you can banish up to 4 Cyberse monsters from your GY Including this card, then Special Summon a Link Monster with a link rating that equals the number of cards banished (This is treated as a Link Summon.) During the turn this card was Link Summoned it can make an Attack for each 'Nexus' Link Monster in the Banished Zone.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2500,
+  "species": "Cyberse",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 4,
+  "link_arrows": [
+    "Top",
+	"Bottom",
+	"Bottom-Left",
+	"Bottom-Right"
+  ]
+}

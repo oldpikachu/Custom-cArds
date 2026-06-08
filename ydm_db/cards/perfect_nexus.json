@@ -1,0 +1,12 @@
+{
+  "id": 72493416,
+  "name": "Perfect Nexus",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If your opponent Special Summons a monster from the Extra Deck you can Special Summon as many \"Nexus\" monsters as possable with a total Level equal to the opponents Special Summoned Monster. During the End Phase Send all cards summoned by this cards effect to the GY.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

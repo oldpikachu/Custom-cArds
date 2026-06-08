@@ -1,0 +1,12 @@
+{
+  "id": 27498846,
+  "name": "Steamtech Last Destination",
+  "is_illegal": ,
+  "is_custom": true,
+  "text": "When this card is activated target 1 level 8 or higher 'Steamtech' Fusion or Synchro Monster you control, that monster gains 500 ATK. If that targeted monster is destroyed while you have at least 4 other 'Steamtech' Fusion or Synchro monsters in your GY you can banish that targeted monster and 2 other 'Steamtech' Fusion or Synchro monsters from your GY Special Summon 1 'Steamtech Final Dragon Weapon' from your Extra Deck. (This is treated as an Xys Summon.)",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

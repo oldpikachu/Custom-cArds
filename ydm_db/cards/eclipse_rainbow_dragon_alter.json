@@ -1,0 +1,21 @@
+{
+  "id": 26938783,
+  "name": "Eclipse Rainbow Dragon Alter",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 Level 10 monsters\n(This card is always treated as an \"Ultimate Crystal\" card.)\nIf this card has \"Rainbow Dragon\" as a material this card gains 4000 ATK. Once per turn: You can detach 1 material from this card decrease the attack of all monsters on the field excluding this card by the level of the detached card X200. If this card is sent to the GY while it has \"Rainbow Dragon\" or \"Rainbow Dark Dragon\" You can Special Summon \"Rainbow Dragon\" or \"Rainbow Dark Dragon\" Ignoring its summoning condition.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 4000,
+  "species": "Dragon",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "rank": 10,
+  "is_tuner": false
+}

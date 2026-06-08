@@ -1,0 +1,21 @@
+{
+  "id": 33741019,
+  "name": "Former Nexus Risktaker",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is Normal or Special Summoned you can add a card that mentions \"Nexus\" from your deck to your hand. Once per turn: You can send 1 \"Nexus\" Spell/Trap on your field to the GY then Special Summon a Cyberse monster in your GY in face-up Defence position.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1100,
+  "species": "Cyberse",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 900,
+  "level": 4,
+  "is_tuner": true
+}

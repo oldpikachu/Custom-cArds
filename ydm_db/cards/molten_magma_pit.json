@@ -1,0 +1,12 @@
+{
+  "id": 51681868,
+  "name": "Molten Magma Pit",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When your Opponent Normal or Special Summons a monster, Destroy the summon monster then your opponent draws 1 card.",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

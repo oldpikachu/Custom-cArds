@@ -1,0 +1,12 @@
+{
+  "id": 41583810,
+  "name": "Back Door in the Code",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When you control no Monsters you can activate one of the following Effects.●  Special Summon 1 Cyberse Monster from your deck. \n● Special Summon 2 Level 3 or lower \"Nexus\" Monsters from your GY.\nyou can only activate the effect of \"Back Door into the Code\" Once per turn.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

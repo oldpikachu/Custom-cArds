@@ -1,0 +1,12 @@
+{
+  "id": 86467187,
+  "name": "Molten Tomb",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 \"Molten\" Monster in your GY, Special Summon that target but nagate its effect.",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

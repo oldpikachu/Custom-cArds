@@ -1,0 +1,26 @@
+{
+  "id": 65909810,
+  "name": "Molten-Eyes Mantle Core Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "3+ \"Molten-Eyes\" monster\nThis cards summon cannot be negated. Once per turn: You can discard up to 3 \"Molten-Eyes\" from your hand. this card gains ATK equal to the combined level of those monsters x200. If this card is sent to the GY by card effect you can target 1 monster your opponent controls, destroy it.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 3500,
+  "species": "Dragon",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 5,
+  "link_arrows": [
+    "Top",
+	"Left",
+	"Right",
+	"Bottom-Left",
+	"Bottom-Right"
+  ]
+}

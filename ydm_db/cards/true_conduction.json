@@ -1,0 +1,12 @@
+{
+  "id": 57660377,
+  "name": "True Conduction",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "All \"Molten-Eyes\" monsters you control are treated as WATER monsters. WATER monsters you control gail 200 ATK for each \"Molten\" Spell/Trap in the GY.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}
