@@ -288,6 +288,234 @@
       "code": "MNCD-046",
       "rarity": "Diviant Rare",
       "image_index": 0
+    },
+    {
+      "id": 75771170,
+      "code": "MNCD-047",
+      "rarity": "Diviant Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74631897,
+      "code": "MNCD-048",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74733322,
+      "code": "MNCD-049",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27184601,
+      "code": "MNCD-050",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34541940,
+      "code": "MNCD-051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60946049,
+      "code": "MNCD-052",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44654994,
+      "code": "MNCD-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97434754,
+      "code": "MNCD-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37517035,
+      "code": "MNCD-55",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21720439,
+      "code": "MNCD-056",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23599634,
+      "code": "MNCD-057",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17719582,
+      "code": "MNCD-058",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23829452,
+      "code": "MNCD-059",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 1122030,
+      "code": "MNCD-060",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74011784,
+      "code": "MNCD-0615",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18377261,
+      "code": "MNCD-062",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17255673,
+      "code": "MNCD-063",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6327734,
+      "code": "MNCD-064",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16699558,
+      "code": "MNCD-065",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97556336,
+      "code": "MNCD-066",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57736667,
+      "code": "MNCD-067",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80044027,
+      "code": "MNCD-068",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16310544,
+      "code": "MNCD-069",
+      "rarity": "Collector's Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42705243,
+      "code": "MNCD-070",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16433136,
+      "code": "MNCD-071",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79912449,
+      "code": "MNCD-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78199891,
+      "code": "MNCD-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84550369,
+      "code": "MNCD-074",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53174748,
+      "code": "MNCD-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43527730,
+      "code": "MNCD-076",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53589300,
+      "code": "MNCD-077",
+      "rarity": "Diviant Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17473466,
+      "code": "MNCD-078",
+      "rarity": "Ultimate Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54862960,
+      "code": "MNCD-079",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81260679,
+      "code": "MNCD-080",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36709484,
+      "code": "MNCD-081",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11161666,
+      "code": "MNCD-082",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44649322,
+      "code": "MNCD-083",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57566760,
+      "code": "MNCD-084",
+      "rarity": "Collector's Rare",
+      "image_index": 0
     }
 
   ]
