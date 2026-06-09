@@ -530,8 +530,14 @@
       "image_index": 0
     },
     {
-      "id": 86972019,
+      "id": 24306233,
       "code": "MNCD-087",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86972019,
+      "code": "MNCD-088",
       "rarity": "Overborder Rare",
       "image_index": 0
     }
