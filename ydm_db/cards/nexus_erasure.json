@@ -3,10 +3,10 @@
   "name": "Nexus Erasure",
   "is_illegal": false,
   "is_custom": true,
-  "text": "Banish 2 \"Nexus\" Monsters from your GY then Special Summon 2 \"Nexus\" Monsters from your Deck or Hand but banish them during the End Phase",
+  "text": "Banish 2 \"Nexus\" Monsters from your GY then Special Summon 2 \"Nexus\" Monsters from your Deck or Hand but banish them during the End Phase. you can only activate the effect of \"Nexus Erasure\" once per turn.",
   "images": [
     ""
   ],
   "type": "Trap",
-  "trap_type": "Normal"
+  "trap_type": "normal"
 }
