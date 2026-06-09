@@ -1,0 +1,21 @@
+{
+  "id": 86972018,
+  "name": "Number C109: Ecliptic Black Hole",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "4 Level 10 Warrior Monsters\nAfter this card is summoned no card effects can be activated until the End Phase. When your opponent activated a card effect you can target that card then You can detach 2 Material from this card. if you do negate the activation and if it was a monster attach that card to this card as material. While this card has materials this monster cannot be destroyed by battle and any battle damage taken involving this card is reduced to 0. While this card has no materials its ATK becomes 4000. You can only activate the effect of \"Number C109: Ecliptic Black Hole\" Once per turn.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Warrior",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "rank": 10,
+  "is_tuner": false
+}

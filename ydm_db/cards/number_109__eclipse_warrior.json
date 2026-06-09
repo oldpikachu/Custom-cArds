@@ -1,0 +1,21 @@
+{
+  "id": 87298478,
+  "name": "Number 109: Eclipse Warrior",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "3 Level 9 monsters\nWhile this card has Xyz material this card cannot be target by card effect. Once Per Chain: when a monster would activate its effect you can detach 2 Materials from this card negate its activation them attach that monster to this card as material. While this card has no materials it gains 500 ATK",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3000,
+  "species": "Warrior",
+  "monster_type": "Xyz",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "rank": 9,
+  "is_tuner": false
+}
