@@ -516,6 +516,24 @@
       "code": "MNCD-084",
       "rarity": "Collector's Rare",
       "image_index": 0
+    },
+    {
+      "id": 87298478,
+      "code": "MNCD-083",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86972018,
+      "code": "MNCD-084",
+      "rarity": "Diviant Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86972019,
+      "code": "MNCD-085",
+      "rarity": "Overborder Rare",
+      "image_index": 0
     }
 
   ]
