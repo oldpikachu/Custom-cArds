@@ -1,0 +1,163 @@
+{
+  "name": "phantoms_of_power",
+  "pulls": [
+    {
+      "weight": 550,
+      "entries": [
+        {
+          "count": 6,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 375,
+      "entries": [
+        {
+          "count": 6,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 44,
+      "entries": [
+        {
+          "count": 4,
+          "rarities": [
+            "Common"
+          ]
+        },
+		{
+          "count": 2,
+          "rarities": [
+            "Super Rare"
+          ]
+        },
+		{
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultimate Rare"
+          ]
+        }
+      ]
+    },
+	{
+      "weight": 20,
+      "entries": [
+        {
+          "count": 4,
+          "rarities": [
+            "Common"
+          ]
+        },
+		{
+          "count": 2,
+          "rarities": [
+            "Super Rare"
+          ]
+        },
+		{
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Collector's Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 10,
+      "entries": [
+        {
+          "count": 4,
+          "rarities": [
+            "Common"
+          ]
+        },
+		{
+          "count": 3,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Secret Rare",
+            "Prismatic Secret Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 3,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Collector's Rare"
+          ]
+        },
+        {
+          "count": 2,
+          "rarities": [
+            "Secret Rare",
+            "Prismatic Secret Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Moment Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}
