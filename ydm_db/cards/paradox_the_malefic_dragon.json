@@ -1,0 +1,21 @@
+{
+  "id": 36725523,
+  "name": "Paradox the Malefic Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "\"Fallen of Albaz\" + 1 \"Malefic\" Monster\nMust first be fusion summoned. you can only use each effect of \"Malefic the Paradox Dragon\" once per turn. You can target 1 card in your GY banish it. then target 1 monster on either field. its effects are nageted. During your opponents turn (Quick Effect): if they would summon a monster with a higher level than this card you can Special Summon a card that mention \"Fallen of Albaz\" or \"Malefic\" From your GY but its effects are nageted and it cannot declare an attack until your next turn. During the End Phase if this card was sent to the GY this turn by opponent card effect, you can Special Summon a \"Fallen of Albaz\" From your deck or GY.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3300,
+  "species": "Dragon",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

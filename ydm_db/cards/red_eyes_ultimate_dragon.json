@@ -1,0 +1,21 @@
+{
+  "id": 32833150,
+  "name": "Red-Eyes Ultimate Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "\"Red-Eyes Black Dragon\" + \"Red-Eyes Black Dragon\" + \"Red-Eyes Black Dragon\"",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 4400,
+  "species": "Dragon",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 3600,
+  "level": 11,
+  "is_tuner": false
+}

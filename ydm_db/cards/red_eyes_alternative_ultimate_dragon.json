@@ -1,0 +1,21 @@
+{
+  "id": 22301094,
+  "name": "Red-Eyes Alternative Ultimate Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "\"Red-Eyes Black Dragon\" + \"Red-Eyes Black Dragon\" + \"Red-Eyes Black Dragon\"\n This card cannot be destroyed by card effect. Once Per Turn: You can discard 1 card then destroy 1 card your opponent controls. If this card was Fusion Summoned using a monster whos original name is \"Red-Eyes Alternative Dragon\" as material. you can target up to 2 cards your opponent controls instead. This card cannot attack the turn this effect is activated.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 4400,
+  "species": "Dragon",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 3600,
+  "level": 11,
+  "is_tuner": false
+}
