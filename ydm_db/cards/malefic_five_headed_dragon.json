@@ -1,0 +1,21 @@
+{
+  "id": 93701360,
+  "name": "Malefic Five-Headed Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned, except by removing from play 1 \"Five-Headed Dragon\" from your Extra Deck while you control \"Malefic World\". There can only be 1 face-up \"Malefic\" monster on the field. Other monsters you control cannot declare an attack. While you have a face-up Field Spell on the field only LIGHT monsters can destroy this card.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 5000,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 5000,
+  "level": 12,
+  "is_tuner": false
+}
