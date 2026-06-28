@@ -3,7 +3,7 @@
   "name": "Steamtech Ultimate Dragon Weapon",
   "is_illegal": false,
   "is_custom": true,
-  "text": "5 'Steamtech' monsters with different names\nIf this card is summoned with anything other than a 'Steamtech' monster destroy this card and take 4000 damage. Once per turn: if you have halve of your opponents LP you can special summon 1 'Steamtech' monster from your extra deck.",
+  "text": "5 \"Steamtech\" Monsters\nMust first be Fusion Summoned using Monsters you control. While this Fusion Summoned monster is face-up on your Field, \"Steamtech\" Monsters you control cannot be destroyed by card effect. Once per turn: you can banish 1 \"Steamtech\" Fusion Monster in your GY, destroy all monster card on your opponents field. Once per turn (Quick Effect): If this card is in the GY and a card effect would be activated that would target a \"Steamtech\" You control, you can banish this card, if you do negate the activation, then destroy that card.",
   "images": [
     ""
   ],
