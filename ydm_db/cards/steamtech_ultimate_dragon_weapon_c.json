@@ -3,7 +3,7 @@
   "name": "Steamtech Ultimate Dragon Weapon",
   "is_illegal": false,
   "is_custom": true,
-  "text": "5 \"Steamtech\" Monsters\nMust first be Fusion Summoned using Monsters you control. While this Fusion Summoned monster is face-up on your Field, \"Steamtech\" Monsters you control cannot be destroyed by card effect. Once per turn: you can banish 1 \"Steamtech\" Fusion Monster in your GY, destroy all monster card on your opponents field. Once per turn (Quick Effect): If this card is in the GY and a card effect would be activated that would target a \"Steamtech\" You control, you can banish this card, if you do negate the activation, then destroy that card.",
+  "text": "5 \"Steamtech\" Monsters\nMust first be Fusion Summoned using Monsters you control. While this Fusion Summoned monster is face-up on your Field, \"Steamtech\" Monsters you control cannot be destroyed by card effect. Once per turn: you can banish 1 \"Steamtech\" Fusion Monster in your GY, destroy all monster card on your opponents field, during the turn this card activated this effect this is the only card that can Attack. Once per turn (Quick Effect): If this card is in the GY and a card effect would be activated that would target a \"Steamtech\" You control, you can banish this card, if you do negate the activation, then destroy that card.",
   "images": [
     ""
   ],
