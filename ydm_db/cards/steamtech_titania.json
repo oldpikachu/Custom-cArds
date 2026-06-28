@@ -3,7 +3,7 @@
   "name": "Steamtech Titania",
   "is_illegal": false,
   "is_custom": true,
-  "text": "1 Tuner + 1+ non-Tuner 'Steamtech' Monsters\nDuring either players battle phase you can target 1 'steamtech' mosnter in your GY equip it to this card. This cards ATK become equil to the equiped mosnters. (Max 1)",
+  "text": "1 Tuner + 1+ non-Tuner \"Steamtech\" Monsters\nOnce per turn (Quick Effect): You can target one \"Steamtech\" Monster in your GY, Equip it to this card. This card gains ATK equal to the ATK of the \"Steamtech\" monster(s) equipped to this card. During either End Phase destroy all cards equipped to this card. While this card has no cards equipped to it, this card cannot be target by card effect, also you take no Battle Damage from battles involving this card.",
   "images": [
     ""
   ],
@@ -15,7 +15,7 @@
   "is_pendulum": false,
   "ability": "",
   "has_effect": true,
-  "def": 2800,
+  "def": 3000,
   "level": 8,
   "is_tuner": false
 }
